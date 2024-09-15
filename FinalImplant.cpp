@@ -1,12 +1,3 @@
-/*
- Red Team Operator course code template
- Hidden memory with CreateFileMapping and hardware breakpoints
-
- author: reenz0h (twitter: @SEKTOR7net)
- inspiration: Ninjasploit (by Charalampos Billinis)
- credits: Frank Block & Ralph Palutke
-*/
-
 #include <windows.h>
 #include <stdio.h>
 #include <wincrypt.h>
